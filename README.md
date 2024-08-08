@@ -8,9 +8,9 @@ I imported the CSV data files into Excel and added a column to calculate ride du
 ### Data Cleaning: 
 I inspected the data for errors, outliers and missing values. A small number of records were dropped due to issues. Data types were checked to ensure proper formatting.
 ### Analysis Steps:
-I calculated summary statistics, maximums and averages to get an initial sense of the data.
-Using pivot tables, I compared average ride durations between members and casual users as well as across weekdays.
-To discover trends over time, I also generated pivot charts segmented by month.
+- I calculated summary statistics, maximums and averages to get an initial sense of the data.
+- Using pivot tables, I compared average ride durations between members and casual users as well as across weekdays.
+- To discover trends over time, I also generated pivot charts segmented by month.
 ### Visualization: 
 In Excel, I created dashboards containing visuals like bar charts, line charts to tell the story of my findings in an accessible way for executives
 ### Key Findings: 
